@@ -30,8 +30,8 @@ Train the model using the training data.
 Evaluate the model and plot predictions.
 
 ## Program
-### Name: DHARSHINI S N
-### Register Number: 212224230062
+### Name: Rithika K
+### Register Number: 212224230230
 
 
 ```Python 
